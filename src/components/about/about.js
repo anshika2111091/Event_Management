@@ -13,10 +13,10 @@ const About = () => {
                                 Booking Office is a global self-service ticketing platform for live experiences that allows anyone to create,
                                 share, find and attend events that fuel their passions and enrich their lives.
                             </p>
-                            <a className='ancherTag' href='https://github.com/jaswant2111058'><AiFillGithub /></a>
-                            <a className='ancherTag' href='https://www.linkedin.com/in/jaswant-kushwaha-037281252/'><AiFillLinkedin /></a>
-                            <a className='ancherTag' href='https://www.instagram.com/jassi_maurya/'><AiFillInstagram /></a>
-                            <a className='ancherTag' href='mailto:jkstar0123@gmail.com'><AiFillMail /></a>
+                            <a className='ancherTag' href='https://github.com/anshika2111091'><AiFillGithub /></a>
+                           
+        
+                            <a className='ancherTag' href='mailto:anshikapuri1919@gmail.com'><AiFillMail /></a>
                         </div>
                         <div className="marketplace">
                             <div className="div">Plan Events</div>
@@ -43,7 +43,7 @@ const About = () => {
 
                     </footer>
                     <div className="copyright">
-                        <p className="text-wrapper-5">Copyright © 2023 Jaswant Kushwaha</p>
+                        <p className="text-wrapper-5">Copyright © 2023 Anshika</p>
                     </div>
                 </div>
             </div>
